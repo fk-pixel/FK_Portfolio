@@ -8,4 +8,4 @@ DS-ML-PyEntwickler portfolio
 - Neighborhoods are analyzed to offer real estate for home buyers to invest.
 - The k-mean clustering technique is used because it is fast and efficient in terms of computation cost.
 
-# Blog link: [On Medium Page in Think&Make](https://medium.com/think-make/housing-sales-prices-venues-data-analysis-of-manchester-95f07228a7dc) 
+### Blog link: [On Medium Page in Think&Make](https://medium.com/think-make/housing-sales-prices-venues-data-analysis-of-manchester-95f07228a7dc) 
