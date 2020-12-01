@@ -23,6 +23,6 @@ DS-ML-PyEntwickler portfolio
 - The maximum number of infected and the countries are combined in a single list against the happiness index
 - Positive correlation with seaborn
 
-![](image)
+![](/images/covid-19_and_happiness_report.png)
 
 ### Blog Post: [On Medium Page in Think&Make](https://medium.com/think-make/what-does-covid-19-and-world-happiness-report-data-tell-us-c76bdd44b7ac)
