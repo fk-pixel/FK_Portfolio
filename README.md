@@ -1,6 +1,8 @@
 # FK_Portfolio
 DS-ML-PyEntwickler portfolio
 
+![]resim[Twitter](https://twitter.com/MakePublication)
+
 # [Project-1: Housing Sales Prices & Venues Data Analysis of Manchester](https://github.com/fk-pixel/Capstone-Projekt-fk-pixel/blob/master/Manchester%20Sale%20of%20House%20Suitable%20Place%20.ipynb)
 -  Searching for rising locations that investors can target and professional points for new business acquisitions.
 - To solve this business problem, we are going to cluster Manchester neighborhoods to suggest places where homeowners can invest in real estate and the current average property price.
