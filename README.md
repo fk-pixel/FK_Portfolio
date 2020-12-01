@@ -3,6 +3,8 @@ DS-ML-PyEntwickler portfolio
 
 ![](/images/Webp.net-resizeimage.png)
 
+
+
 [Twitter](https://twitter.com/MakePublication)
 
 # [Project-1: Housing Sales Prices & Venues Data Analysis of Manchester](https://github.com/fk-pixel/Capstone-Projekt-fk-pixel/blob/master/Manchester%20Sale%20of%20House%20Suitable%20Place%20.ipynb)
