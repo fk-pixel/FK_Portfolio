@@ -1,7 +1,7 @@
 # FK_Portfolio
 DS-ML-PyEntwickler portfolio
 
-![](/images/Webp.net-resizeimage.png)                                  ![](/images/medium-resize.png)
+![](/images/Webp.net-resizeimage.png)                                  ![](/images/medium_trancp.png)
 
 [Twitter](https://twitter.com/MakePublication)                         [Medium](https://kurt-celsius.medium.com/)
 
