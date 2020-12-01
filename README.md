@@ -2,6 +2,7 @@
 DS-ML-PyEntwickler portfolio
 
 ![](/images/Webp.net-resizeimage.png)                                  ![](/images/medium_trancp.png)
+
 [__Twitter__](https://twitter.com/MakePublication)                     [__Medium__](https://kurt-celsius.medium.com/)
                          
 
