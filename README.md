@@ -2,8 +2,8 @@
 DS-ML-PyEntwickler portfolio
 
 ![](/images/Webp.net-resizeimage.png)                                  ![](/images/medium_trancp.png)
-
 [Twitter](https://twitter.com/MakePublication)                         [Medium](https://kurt-celsius.medium.com/)
+                         
 
 # [Project-1: Housing Sales Prices & Venues Data Analysis of Manchester](https://github.com/fk-pixel/Capstone-Projekt-fk-pixel/blob/master/Manchester%20Sale%20of%20House%20Suitable%20Place%20.ipynb)
 -  Searching for rising locations that investors can target and professional points for new business acquisitions.
