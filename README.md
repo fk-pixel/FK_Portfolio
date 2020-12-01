@@ -2,6 +2,7 @@
 DataScience-MachineLearning-PythonEntwickler Portfolio
 
 ![](/images/Webp.net-resizeimage.png)                                         ![](/images/medium_trancp.png)
+
 [Twitter](https://twitter.com/MakePublication)                                [Medium](https://kurt-celsius.medium.com/)
 ----------------------------------------------------------------------------------------------------------------------------                         
 
