@@ -1,7 +1,7 @@
 # FK_Portfolio
 DS-ML-PyEntwickler portfolio
 
-![](/images/077_twitter-512.png)[Twitter](https://twitter.com/MakePublication)
+![](/images/Webp.net-resizeimage.png)[Twitter](https://twitter.com/MakePublication)
 
 # [Project-1: Housing Sales Prices & Venues Data Analysis of Manchester](https://github.com/fk-pixel/Capstone-Projekt-fk-pixel/blob/master/Manchester%20Sale%20of%20House%20Suitable%20Place%20.ipynb)
 -  Searching for rising locations that investors can target and professional points for new business acquisitions.
