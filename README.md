@@ -1,4 +1,4 @@
-# FK_Portfolio
+# Kurt F. Celsius
 DataScience-MachineLearning-PythonEntwickler Portfolio
 
 ![](/images/Webp.net-resizeimage.png)                                         ![](/images/medium_trancp.png)
@@ -25,3 +25,16 @@ DataScience-MachineLearning-PythonEntwickler Portfolio
 ![](/images/covid-19_and_happiness_report.png)
 
 ### Blog Post: [On Medium Page in Think&Make](https://medium.com/think-make/what-does-covid-19-and-world-happiness-report-data-tell-us-c76bdd44b7ac)
+
+# [Project - 3: 10 Tasks With NLP: Twitter Sentiment Analysis](https://github.com/fk-pixel/Medium/tree/master/twitter_sentiment_analysis)
+- Review and evaluate the twitter data set
+- Data discovery
+- Removing unnecessary words and punctuation marks
+- Tokenization processes
+- Creating a suitable pipline
+- Model development with naive bayes
+- Evaluating test results
+
+![](/images/1_iBp2wPbgkdm7l9_GoFgzGw.png)
+
+### Blog Post: [On Medium Page](https://kurt-celsius.medium.com/10-tasks-with-nlp-twitter-sentiment-analysis-fb1a2757d91f)
