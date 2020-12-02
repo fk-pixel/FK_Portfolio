@@ -16,7 +16,7 @@ DataScience-MachineLearning-PythonEntwickler Portfolio
 
 ### Blog Post: [On Medium Page in Think&Make](https://medium.com/think-make/housing-sales-prices-venues-data-analysis-of-manchester-95f07228a7dc) 
  
-# [Project -2: What Does COVID-19 and World Happiness Report Data Tell Us?](https://github.com/fk-pixel/Coursera-Project-Network/blob/master/Covid19_DataAnalysis%20.ipynb)
+# [Project-2: What Does COVID-19 and World Happiness Report Data Tell Us?](https://github.com/fk-pixel/Coursera-Project-Network/blob/master/Covid19_DataAnalysis%20.ipynb)
 - Thanks to pandas a"Correlation Analysis" between world happiness report and covid-19 infected numbers
 - Some changes experienced by countries in the epidemic are analyzed
 - The maximum number of infected and the countries are combined in a single list against the happiness index
@@ -26,7 +26,7 @@ DataScience-MachineLearning-PythonEntwickler Portfolio
 
 ### Blog Post: [On Medium Page in Think&Make](https://medium.com/think-make/what-does-covid-19-and-world-happiness-report-data-tell-us-c76bdd44b7ac)
 
-# [Project - 3: 10 Tasks With NLP: Twitter Sentiment Analysis](https://github.com/fk-pixel/Medium/tree/master/twitter_sentiment_analysis)
+# [Project-3: 10 Tasks With NLP: Twitter Sentiment Analysis](https://github.com/fk-pixel/Medium/tree/master/twitter_sentiment_analysis)
 - Review and evaluate the twitter data set
 - Data discovery
 - Removing unnecessary words and punctuation marks
