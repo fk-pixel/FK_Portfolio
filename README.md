@@ -37,4 +37,4 @@ DataScience-MachineLearning-PythonEntwickler Portfolio
 
 ![](/images/1_iBp2wPbgkdm7l9_GoFgzGw.png)
 
-### Blog Post: [On Medium Page](https://kurt-celsius.medium.com/10-tasks-with-nlp-twitter-sentiment-analysis-fb1a2757d91f)
+### Blog Post: [On Medium Page in The Startup](https://kurt-celsius.medium.com/10-tasks-with-nlp-twitter-sentiment-analysis-fb1a2757d91f)
