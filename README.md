@@ -5,7 +5,7 @@ DataScience-MachineLearning-PythonEntwickler Portfolio
 
 [Twitter](https://twitter.com/MakePublication)                                [Medium](https://kurt-celsius.medium.com/)
 
-# [Project-1: Will The President Go Home Due To The Corona Crisis: The Epidemic and The Changing Sentiments On Twitter](https://github.com/fk-pixel/Medium/tree/master/tw_merkel_project)
+# [Project-1: An NLP Analysis: What is Happening About the Presidents on Twitter?](https://github.com/fk-pixel/Medium/tree/master/tw_merkel_project)
 - Analysis of tweets posted about Angela Merkel for a short period (about 10 days) on twitter
 - Use of tools such as pandas and matplotlib for discovery data analysis
 - Normal and masked visualization with WordCloud
