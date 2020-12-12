@@ -15,7 +15,7 @@ DataScience-MachineLearning-PythonEntwickler Portfolio
 - Label estimation of 650 twitt test data
 
 ![](/images/1_AzYpwgU97-_SsJGWW0lZTg.png)
-![](/images/1_Nt1J08ga9TxUt2U0mMCyqw.png)
+
 ### Blog Post: [On Medium Page](https://kurt-celsius.medium.com/will-the-president-go-home-due-to-the-corona-crisis-the-epidemic-and-the-changing-sentiments-on-14bd99943f1a)
 
 
