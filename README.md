@@ -87,7 +87,7 @@ DataScience-MachineLearning-PythonEntwickler Portfolio
 - [7 Examples of Understanding Recursion Functions in Python](https://medium.com/codex/7-examples-of-understanding-recursion-functions-in-python-73dbaac0967a)
 - [The Best Way to Understand Composition in Python: 5 Case Studies and Solution](https://medium.com/swlh/the-best-way-to-understand-composition-in-python-5-case-studies-and-solution-4b23a6a2cc38)
 - [Contribution of ‘Padding’ in Python for NLP Projects](https://medium.com/datadriveninvestor/padding-used-in-nlp-are-they-improvers-2f4613bd3648)
-- 
+ 
 
 ## Data Analysis
 - [Visualization on the Map Using Starbucks Store Locations in Germany](https://medium.com/think-make/visualization-on-the-map-using-starbucks-store-locations-in-germany-d9e3be56ea1b)
