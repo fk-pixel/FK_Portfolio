@@ -16,7 +16,7 @@ DataScience-MachineLearning-PythonEntwickler Portfolio
 
 ![](/images/1_AzYpwgU97-_SsJGWW0lZTg.png)
 
-### Blog Post: [On Medium Page](https://kurt-celsius.medium.com/will-the-president-go-home-due-to-the-corona-crisis-the-epidemic-and-the-changing-sentiments-on-14bd99943f1a)
+### Blog Post: [On Medium Page in Data Investor](https://kurt-celsius.medium.com/will-the-president-go-home-due-to-the-corona-crisis-the-epidemic-and-the-changing-sentiments-on-14bd99943f1a)
 
 
 
